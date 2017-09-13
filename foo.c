@@ -1,5 +1,5 @@
 #include <stdio.h>
 int main()
 {
-  printf("FOO!  FOO I SAY!\n");
+  printf("I'm in ur foo, branching ur bar.!\n");
 }
